@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Alex Dombroski. I'm studying Computer Science at BYUI.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdombroski&layout=compact&langs_count=10" alt="top-languages"></img>
+
+
 <!--
 **alexanderdombroski/alexanderdombroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
