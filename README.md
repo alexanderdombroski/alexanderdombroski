@@ -12,6 +12,9 @@ Team Projects
 * [Calendar Website](https://github.com/alexanderdombroski/vite-project)
 * [PyGame Dungeon Crawler](https://github.com/alexanderdombroski/cse310pygame)
 
+I'm currently working on a VSCode extension for snippet management, along with other projects.
+* [Snippets Studio](https://github.com/alexanderdombroski/snippetstudio)
+
 <!--
 **alexanderdombroski/alexanderdombroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
