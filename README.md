@@ -4,6 +4,8 @@ I'm Alex Dombroski. I'm a senior studying Computer Science at BYUI.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdombroski&layout=compact&langs_count=10" alt="top-languages"></img>
 
+Check out my vscode extension: [Snippets Studio](https://github.com/alexanderdombroski/snippetstudio)!
+
 Some of my best solo projects:
 * [Smoothie Ordering Site](https://github.com/alexanderdombroski/blendz)
 * [iOS Weather App](https://github.com/alexanderdombroski/WeatherApp)
@@ -11,9 +13,6 @@ Some of my best solo projects:
 Team Projects
 * [Calendar Website](https://github.com/alexanderdombroski/vite-project)
 * [PyGame Dungeon Crawler](https://github.com/alexanderdombroski/cse310pygame)
-
-I'm currently working on a VSCode extension for snippet management, along with other projects.
-* [Snippets Studio](https://github.com/alexanderdombroski/snippetstudio)
 
 <!--
 **alexanderdombroski/alexanderdombroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
