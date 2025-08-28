@@ -9,7 +9,7 @@ I'm Alex Dombroski. I'm a senior studying Computer Science at BYUI. I enjoy prog
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdombroski&layout=compact&langs_count=10" alt="top-languages"></img>
 </a>
 
-## Projects
+## Some Cool Projects
 
 Check out my **vscode extension**: [SnippetStudio](https://marketplace.visualstudio.com/items?itemName=AlexDombroski.snippetstudio)!
 
