@@ -3,10 +3,10 @@
 I'm Alex Dombroski. I'm a senior studying Computer Science at BYUI. I enjoy programming in many languages and am passionate about web development.
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexanderdombroski&rank_icon=github&include_all_commits=true&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats-steel-ten-56.vercel.app/api?username=alexanderdombroski&rank_icon=github&include_all_commits=true&hide_rank=true" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderdombroski&layout=compact&langs_count=10" alt="top-languages"></img>
+  <img height=200 align="center" src="https://github-readme-stats-steel-ten-56.vercel.app/api/top-langs/?username=alexanderdombroski&layout=compact&langs_count=10" alt="top-languages"></img>
 </a>
 
 ## Some Cool Projects
