@@ -13,7 +13,7 @@ I'm Alex Dombroski. I'm a senior studying Computer Science at BYUI. I enjoy prog
 
 Check out my **vscode extension**: [SnippetStudio](https://marketplace.visualstudio.com/items?itemName=AlexDombroski.snippetstudio)!
 
-[![SnippetStudio](https://github-readme-stats.vercel.app/api/pin/?username=alexanderdombroski&repo=snippetstudio)](https://github.com/alexanderdombroski/snippetstudio)
+[![SnippetStudio](https://github-readme-stats-steel-ten-56.vercel.app/api/pin/?username=alexanderdombroski&repo=snippetstudio)](https://github.com/alexanderdombroski/snippetstudio)
 
 
 Some of my other best solo projects:
@@ -26,7 +26,7 @@ Team Projects
 
 I've spent enough time writing these git aliases, I'd almost consider them a project of themselves!
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ddac491daeff48c5f1346ba2960462fa)](https://gist.github.com/alexanderdombroski/ddac491daeff48c5f1346ba2960462fa)
+[![Gist Card](https://github-readme-stats-steel-ten-56.vercel.app/api/gist?id=ddac491daeff48c5f1346ba2960462fa)](https://gist.github.com/alexanderdombroski/ddac491daeff48c5f1346ba2960462fa)
 
 <!--
 **alexanderdombroski/alexanderdombroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
