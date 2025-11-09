@@ -19,6 +19,7 @@ Check out my **vscode extension**: [SnippetStudio](https://marketplace.visualstu
 Some of my other best solo projects:
 * [Smoothie Ordering Site](https://github.com/alexanderdombroski/blendz)
 * [iOS Weather App](https://github.com/alexanderdombroski/WeatherApp)
+* [Esbuild Analyzer CLI](https://github.com/alexanderdombroski/esbuild-lazy-analyzer)
 
 Team Projects
 * [Calendar Website](https://github.com/alexanderdombroski/vite-project)
