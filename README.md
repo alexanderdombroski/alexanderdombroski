@@ -11,7 +11,7 @@ I'm Alex Dombroski. I'm a senior studying Computer Science at BYUI. I enjoy prog
 
 ## Some Cool Projects
 
-Check out my **vscode extension**: [SnippetStudio](https://marketplace.visualstudio.com/items?itemName=AlexDombroski.snippetstudio)!
+Check out my **vscode extension**: [SnippetStudio](https://github.com/alexanderdombroski/snippetstudio)!
 
 [![SnippetStudio](https://github-readme-stats-steel-ten-56.vercel.app/api/pin/?username=alexanderdombroski&repo=snippetstudio)](https://github.com/alexanderdombroski/snippetstudio)
 
@@ -20,10 +20,12 @@ Some of my other best solo projects:
 * [Smoothie Ordering Site](https://github.com/alexanderdombroski/blendz)
 * [iOS Weather App](https://github.com/alexanderdombroski/WeatherApp)
 * [Esbuild Analyzer CLI](https://github.com/alexanderdombroski/esbuild-lazy-analyzer)
+* [Car Dealership Site](https://github.com/alexanderdombroski/car_dealer)
 
 Team Projects
 * [Calendar Website](https://github.com/alexanderdombroski/vite-project)
 * [PyGame Dungeon Crawler](https://github.com/alexanderdombroski/cse310pygame)
+* [Sleep Outside Ecommerce Site](https://github.com/alexanderdombroski/sleep-outside) (in progress)
 
 I've spent enough time writing these git aliases, I'd almost consider them a project of themselves!
 
