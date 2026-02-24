@@ -25,7 +25,6 @@ Some of my other best solo projects:
 Team Projects
 * [Calendar Website](https://github.com/alexanderdombroski/vite-project)
 * [PyGame Dungeon Crawler](https://github.com/alexanderdombroski/cse310pygame)
-* [Sleep Outside Ecommerce Site](https://github.com/alexanderdombroski/sleep-outside) (in progress)
 
 I've spent enough time writing these git aliases, I'd almost consider them a project of themselves!
 
