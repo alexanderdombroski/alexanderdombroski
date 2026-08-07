@@ -15,6 +15,7 @@ Check out my **vscode extension**: [SnippetStudio](https://github.com/alexanderd
 
 [![SnippetStudio](https://github-readme-stats-steel-ten-56.vercel.app/api/pin/?username=alexanderdombroski&repo=snippetstudio)](https://github.com/alexanderdombroski/snippetstudio)
 
+My [personal website](https://github.com/alexanderdombroski/alexanderdombroski.github.io) is in progress
 
 Some of my other best solo projects:
 * [Smoothie Ordering Site](https://github.com/alexanderdombroski/blendz)
@@ -23,12 +24,15 @@ Some of my other best solo projects:
 * [Car Dealership Site](https://github.com/alexanderdombroski/car_dealer)
 
 Team Projects
-* [Calendar Website](https://github.com/alexanderdombroski/vite-project)
+* [Resume Builder Website](https://github.com/alexanderdombroski/endless-resume)
 * [PyGame Dungeon Crawler](https://github.com/alexanderdombroski/cse310pygame)
+* [Calendar Website](https://github.com/alexanderdombroski/vite-project)
 
 I've spent enough time writing these git aliases, I'd almost consider them a project of themselves!
 
 [![Gist Card](https://github-readme-stats-steel-ten-56.vercel.app/api/gist?id=ddac491daeff48c5f1346ba2960462fa)](https://gist.github.com/alexanderdombroski/ddac491daeff48c5f1346ba2960462fa)
+
+Or try the [cli version](https://github.com/alexanderdombroski/bisgit)
 
 <!--
 **alexanderdombroski/alexanderdombroski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
